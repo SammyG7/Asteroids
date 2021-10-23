@@ -1,3 +1,2 @@
 # Asteroids
-
-ReadMe Test
+Run the .jar file in the dist folder.
